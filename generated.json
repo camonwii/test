@@ -4,7 +4,6 @@
     "title": "title ~~(did you know you can have markdown here too?)~~",
     "description": "this supports [named links](https://discordapp.com) on top of the previously shown subset of markdown. ```\nyes, even code blocks```",
     "url": "https://discordapp.com",
-    "color": 1305302,
     "timestamp": "2021-12-09T17:47:06.309Z",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
